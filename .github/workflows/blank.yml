@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contatti – Valter Bovolenta</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: auto;
+      padding: 2rem;
+      background: #f9f9f9;
+      color: #222;
+    }
+    h1 {
+      text-align: center;
+    }
+    a {
+      color: #0645AD;
+    }
+  </style>
+</head>
+<body>
+  <h1>Valter Bovolenta</h1>
+  <p>Autore indipendente, sviluppatore della teoria della <strong>Sfera Armonica</strong>.</p>
+
+  <h2>📬 Contatti</h2>
+  <p>Email: <strong>boterval[at]gmail.com</strong> (sostituire [at] con @)</p>
+
+  <h2>🔗 Link utili</h2>
+  <ul>
+    <li><a href="https://zenodo.org/record/16361988" target="_blank">Pubblicazione su Zenodo</a></li>
+    <li><a href="https://orcid.org" target="_blank">Profilo ORCID</a> (in aggiornamento)</li>
+  </ul>
+
+  <p style="margin-top:2rem;">© 2025 Valter Bovolenta</p>
+</body>
+</html>
